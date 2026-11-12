@@ -8,37 +8,19 @@ I build mobile applications, web products, multilingual tools, and software auto
 
 ### [LingWing Multilingual Keyboard](https://github.com/chaizhenhong1-a11y/LingWing-Multilingual-Keyboard)
 
-A native Android multilingual keyboard with offline typing engines and account-based AI translation, designed to make cross-language communication more accessible.
+A native Android multilingual keyboard with offline typing engines and account-based AI translation.
 
 **Android · Kotlin · Multilingual Input · OpenAI Integration**
 
 ### [Elvane — E-Commerce Platform](https://github.com/chaizhenhong1-a11y/e-commerce-platform)
 
-A commerce platform project structured around a Next.js storefront, Flutter mobile application, and NestJS API. The architecture separates client interfaces from trusted server-side pricing, inventory, and data operations.
+A full-stack commerce project with a Next.js storefront, Flutter mobile app, and NestJS API.
 
 **Next.js · Flutter · NestJS · TypeScript · Prisma · PostgreSQL**
 
-### [Elyra AI Chat](https://github.com/chaizhenhong1-a11y/elyra-ai-chat)
-
-A conversational web application organized into separate public chat and administration interfaces, with shared configuration models and developing backend integration. The current chat endpoint is rule-based rather than a fully connected AI model.
-
-**TypeScript · Web Applications · Admin Dashboard · Chat Interfaces**
-
-### [QR Scanning HRMS](https://github.com/chaizhenhong1-a11y/QrScanning-HRMS)
-
-A Flutter-based human resource management project exploring QR scanning and practical workplace workflows.
-
-**Flutter · Dart · QR Scanning · Application Development**
-
-### [MoneyTracker Pro](https://github.com/chaizhenhong1-a11y/moneytrackerpro)
-
-A Flutter personal finance application project focused on everyday money tracking and accessible mobile workflows.
-
-**Flutter · Dart · Personal Finance · Mobile UI**
-
 ### [VonoTalky](https://github.com/chaizhenhong1-a11y/VonoTalky)
 
-A Flutter application project exploring communication-oriented product design and mobile software development.
+A Flutter application project exploring communication-oriented mobile experiences and product development.
 
 **Flutter · Dart · Mobile Applications**
 
