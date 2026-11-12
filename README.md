@@ -30,6 +30,14 @@ A Flutter habit-tracking app with daily progress, plans, diary entries, and bili
 
 **Flutter · Dart · Firebase · Offline-First · Localization**
 
+## Collaborative Projects
+
+### [Clyven](https://github.com/chengyang1017/clyven)
+
+A collaborative software development project hosted by [chengyang1017](https://github.com/chengyang1017). I participate as a contributor, working with the project team through feature branches and pull requests.
+
+**Collaboration · Git Branches · Pull Requests · Code Review**
+
 ## Tech I Work With
 
 **Mobile:** Flutter, Dart, Kotlin, Android
