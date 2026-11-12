@@ -24,6 +24,12 @@ A Flutter application project exploring communication-oriented mobile experience
 
 **Flutter · Dart · Mobile Applications**
 
+### [Habit Tracker](https://github.com/chaizhenhong1-a11y/habit-tracker)
+
+A Flutter habit-tracking app with daily progress, plans, diary entries, and bilingual UI. Supports offline guest use and optional Firebase accounts with data synchronization.
+
+**Flutter · Dart · Firebase · Offline-First · Localization**
+
 ## Tech I Work With
 
 **Mobile:** Flutter, Dart, Kotlin, Android
